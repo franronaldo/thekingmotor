@@ -45,22 +45,22 @@ async def send_scheduled_embeds():
             "id": "embed1",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza la actividad!__**",
-                description="🪛 `Revisión de seguridad 1/2` — **00:00**\n📷 `Reparación de cámaras 1/4` — **00:00**",
+                description="🚗 `Reparación industrial 1/4` — **00:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🚗 `Servicio de escolta 1/5` — **01:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🧰 `Reparación en carretera 1/6` — **01:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/vooataA.png"
+                url="https://i.imgur.com/s3zRf60.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
@@ -69,22 +69,22 @@ async def send_scheduled_embeds():
             "id": "embed2",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza la actividad!__**",
-                description="🚗 `Servicio de escolta 1/5` — **01:00**",
+                description="🧰 `Reparación en carretera 1/6` — **01:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n💰 `Reabastecer cajeros 1/7` — **02:00**\n🚨 `Instalación de alarmas 1/5` — **02:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🪛 `Entrega de herramientas 1/5` — **02:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/OUSCGno.png"
+                url="https://i.imgur.com/d2wi2VG.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
@@ -93,22 +93,22 @@ async def send_scheduled_embeds():
             "id": "embed3",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza la actividad!__**",
-                description="💰 `Reabastecer cajeros 1/7` — **02:00**\n🚨 `Instalación de alarmas 1/5` — **02:00**",
+                description="🪛 `Entrega de herramientas 1/5` — **02:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🚨 `Instalación de alarmas 2/5` — **03:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🚗 `Reparación industrial 2/4` — **03:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/ZhoiLEt.png"
+                url="https://i.imgur.com/T7P4tFJ.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
@@ -117,358 +117,214 @@ async def send_scheduled_embeds():
             "id": "embed4",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza la actividad!__**",
-                description="🚨 `Instalación de alarmas 2/5` — **03:00**",
+                description="🚗 `Reparación industrial 2/4` — **03:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🚗 `Servicio de escolta 2/5` — **04:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🪛 `Entrega de herramientas 2/5` — **05:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/atBgLpE.png"
+                url="https://i.imgur.com/s3zRf60.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 3,
-            "minute": 50,
-            "id": "embed5",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza la actividad!__**",
-                description="🚗 `Servicio de escolta 2/5` — **04:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad__**",
-                value="\n🚨 `Instalación de alarmas 3/5` — **05:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/OUSCGno.png"
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 4,
             "minute": 50,
-            "id": "embed6",
+            "id": "embed5",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza la actividad!__**",
-                description="🚨 `Instalación de alarmas 3/5` — **05:00**",
+                description="🪛 `Entrega de herramientas 2/5` — **05:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n💰 `Reabastecer cajeros 2/7` — **06:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🧰 `Reparación en carretera 2/6` — **08:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/atBgLpE.png"
+                url="https://i.imgur.com/T7P4tFJ.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 5,
-            "minute": 50,
-            "id": "embed7",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="**Deben haber minimo 4 personas para unirse antes de iniciarla, el no hacer caso a esta regla puede conllevar a sanción. En caso que no haya presencia, se puede iniciar 06:55 en adelante para que haya tiempo en realizarla.**\n\n💰 `Reabastecer cajeros 2/7` — **06:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad — X2__**",
-                value="\n💰 `Reabastecer cajeros 3/7` — **08:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/5QgpiHo.png"
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 7,
             "minute": 50,
-            "id": "embed8",
+            "id": "embed6",
             "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="**Deben haber minimo 4 personas para unirse antes de iniciarla, el no hacer caso a esta regla puede conllevar a sanción. En caso que no haya presencia, se puede iniciar 08:55 en adelante para que haya tiempo en realizarla.**\n\n💰 `Reabastecer cajeros 3/7` — **08:00**",
+                title="**__¡En 10 minutos comienza la actividad!__**",
+                description="🧰 `Reparación en carretera 2/6` — **08:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
-                name="**__Próxima actividad — X2__**",
-                value="\n💰 `Reabastecer cajeros 4/7` — **10:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                name="**__Próxima actividad__**",
+                value="\n🚗 `Reparación industrial 3/4` — **11:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/5QgpiHo.png"            
+                url="https://i.imgur.com/d2wi2VG.png"
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 9,
-            "minute": 50,
-            "id": "embed9",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="**Deben haber minimo 4 personas para unirse antes de iniciarla, el no hacer caso a esta regla puede conllevar a sanción. En caso que no haya presencia, se puede iniciar 10:55 en adelante para que haya tiempo en realizarla.**\n\n💰 `Reabastecer cajeros 4/7` — **10:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad — X2__**",
-                value="\n🚨 `Instalación de alarmas 4/5` — **11:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/5QgpiHo.png"            
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 10,
             "minute": 50,
-            "id": "embed10",
+            "id": "embed13",
             "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="🚨 `Instalación de alarmas 4/5` — **11:00**",
+                title="**__¡En 10 minutos comienza una actividad__**",
+                description="🚗 `Reparación industrial 3/4` — **11:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
-                name="**__Próxima actividad — X2__**",
-                value="\n📷 `Reparación de cámaras 2/4` — **12:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                name="**__Próxima actividad__**",
+                value="\n🧰 `Reparación en carretera 3/6` — **13:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/atBgLpE.png"            
+                url="https://i.imgur.com/s3zRf60.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 11,
-            "minute": 50,
-            "id": "embed11",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="📷 `Reparación de cámaras 2/4` — **12:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad — X2__**",
-                value="\n💰 `Reabastecer cajeros 5/7` — **13:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/55wIj54.png"            
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 12,
             "minute": 50,
-            "id": "embed12",
+            "id": "embed14",
             "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad — X2!__**",
-                description="**Deben haber minimo 4 personas para unirse antes de iniciarla, el no hacer caso a esta regla puede conllevar a sanción. En caso que no haya presencia, se puede iniciar 13:55 en adelante para que haya tiempo en realizarla.**\n\n💰 `Reabastecer cajeros 5/7` — **13:00**",
+                title="**__¡En 10 minutos comienza una actividad__**",
+                description="🧰 `Reparación en carretera 3/6` — **13:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🚗 `Servicio de escolta 3/5` — **15:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🪛 `Entrega de herramientas 3/5` — **15:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/5QgpiHo.png"            
+                url="https://i.imgur.com/d2wi2VG.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 14,
             "minute": 50,
-            "id": "embed13",
+            "id": "embed15",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="🚗 `Servicio de escolta 3/5` — **15:00**",
+                description="🪛 `Entrega de herramientas 3/5` — **15:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n📷 `Reparación de cámaras 3/4` — **16:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🧰 `Reparación en carretera 4/6` — **17:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/OUSCGno.png"            
+                url="https://i.imgur.com/T7P4tFJ.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 15,
-            "minute": 50,
-            "id": "embed14",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad__**",
-                description="📷 `Reparación de cámaras 3/4` — **16:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad__**",
-                value="\n🪛 `Revisión de seguridad 2/2` — **17:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/55wIj54.png"            
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 16,
             "minute": 50,
-            "id": "embed15",
+            "id": "embed17",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="🪛 `Revisión de seguridad 2/2` — **17:00**",
+                description="🧰 `Reparación en carretera 4/6` — **17:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n💰 `Reabastecer cajeros 6/7` — **18:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🪛 `Entrega de herramientas 4/5` — **18:00**\n🧰 `Reparación en carretera 5/6` — **18:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/evQdLAH.png"            
+                url="https://i.imgur.com/d2wi2VG.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 17,
             "minute": 50,
-            "id": "embed16",
+            "id": "embed18",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="**Deben haber mínimo 4 personas para unirse antes de iniciarla, el no hacer caso a esta regla puede conllevar a sanción. En caso que no haya presencia, se puede iniciar 18:55 en adelante para que haya tiempo en realizarla.**\n\n💰 `Reabastecer cajeros 6/7` — **18:00**",
+                description="🪛 `Entrega de herramientas 4/5` — **18:00**\n🧰 `Reparación en carretera 5/6` — **18:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n📷 `Reparación de cámaras 4/4` — **19:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🚗 `Reparación industrial 4/4` — **20:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/5QgpiHo.png"            
+                url="https://i.imgur.com/iynl2lp.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            )
-        },
-        {
-            "hour": 18,
-            "minute": 50,
-            "id": "embed17",
-            "embed": discord.Embed(
-                title="**__¡En 10 minutos comienza una actividad__**",
-                description="📷 `Reparación de cámaras 4/4` — **19:00**",
-                color=0xCDA939
-            ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
-            ).add_field(
-                name="**__Próxima actividad__**",
-                value="\n🚗 `Servicio de escolta 4/5` — **20:00**\n\n**〰️〰️〰️〰️〰️〰️**",
-                inline=False
-            ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
-            ).set_image(
-                url="https://i.imgur.com/55wIj54.png"            
-            ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
             "hour": 19,
             "minute": 50,
-            "id": "embed18",
+            "id": "embed19",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="🚗 `Servicio de escolta 4/5` — **20:00**",
+                description="🚗 `Reparación industrial 4/4` — **20:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🚗 `Servicio de escolta 5/5` — **21:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🪛 `Entrega de herramientas 5/5` — **21:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/OUSCGno.png"            
+                url="https://i.imgur.com/s3zRf60.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
@@ -477,22 +333,22 @@ async def send_scheduled_embeds():
             "id": "embed19",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="🚗 `Servicio de escolta 5/5` — **21:00**",
+                description="🪛 `Entrega de herramientas 5/5` — **21:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n💰 `Reabastecer cajeros 7/7` — **22:00**\n🚨 `Instalación de alarmas 5/5` — **22:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🧰 `Reparación en carretera 6/6` — **22:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/OUSCGno.png"            
+                url="https://i.imgur.com/T7P4tFJ.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         },
         {
@@ -501,22 +357,22 @@ async def send_scheduled_embeds():
             "id": "embed20",
             "embed": discord.Embed(
                 title="**__¡En 10 minutos comienza una actividad__**",
-                description="💰 `Reabastecer cajeros 7/7` — **22:00**\n🚨 `Instalación de alarmas 5/5` — **22:00**",
+                description="🧰 `Reparación en carretera 6/6` — **22:00**",
                 color=0xCDA939
             ).set_author(
-                name="Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                name="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             ).add_field(
                 name="**__Próxima actividad__**",
-                value="\n🪛 `Revisión de seguridad 1/2` — **00:00**\n📷 `Reparación de cámaras 1/4` — **00:00**\n\n**〰️〰️〰️〰️〰️〰️**",
+                value="\n🚗 `Reparación industrial 1/4` — **00:00**\n\n**〰️〰️〰️〰️〰️〰️**",
                 inline=False
             ).set_thumbnail(
-                url="https://i.imgur.com/KidLx3S.png"
+                url="https://i.imgur.com/ws748KD.png"
             ).set_image(
-                url="https://i.imgur.com/ZhoiLEt.png"            
+                url="https://i.imgur.com/d2wi2VG.png"            
             ).set_footer(
-                text="Essency Company - Essencurity INC",
-                icon_url="https://i.imgur.com/KidLx3S.png"
+                text="The King Motor",
+                icon_url="https://i.imgur.com/ws748KD.png"
             )
         }
     ]
